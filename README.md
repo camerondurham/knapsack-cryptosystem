@@ -1,2 +1,3 @@
 # knapsack-cryptosystem
-Simple programs I used to write a paper on knapsack cryptosystems this summer
+
+Simple [SageMath](https://www.sagemath.org) programs I used to write a paper on knapsack cryptosystems for a summer class. Also, the LaTeX...
